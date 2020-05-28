@@ -1,0 +1,25 @@
+body{
+    background-color: floralwhite;
+}
+h1{
+   font-size: medium;
+   color: fuchsia;
+
+}
+img:hover{
+    background-color: lightcoral;
+}
+
+.rmn{
+    background-color: greenyellow;
+}
+.mca{
+    background-color: hotpink;
+}
+
+#heading{
+    color: indigo;
+}
+.chn{
+    border-radius: 100%;
+}
